@@ -1,5 +1,5 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudio
+# Created  by https://www.toptal.com/developers/gitignore/api/visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio
 
 ### VisualStudio ###
@@ -404,3 +404,18 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
+
+
+# Created by https://www.toptal.com/developers/gitignore/api/opencv
+# Edit at https://www.toptal.com/developers/gitignore?templates=opencv
+
+### OpenCV ###
+#OpenCV for Mac and Linux
+#build and release folders
+*/CMakeFiles
+*/CMakeCache.txt
+*/Makefile
+*/cmake_install.cmake
+.DS_Store
+
+# End of https://www.toptal.com/developers/gitignore/api/opencv
